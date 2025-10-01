@@ -1,16 +1,44 @@
-# React + Vite
+# Portfo.me Website 🎨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+یک وبسایت شخصی نمونه (Portfolio) ساخته شده با **React** و **Vite** برای نمایش مهارت‌ها، پروژه‌ها و معرفی شخصی.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 تکنولوژی‌ها
+- ⚛️ React
+- ⚡ Vite
+- 🎨 Tailwind CSS
+- 📦 NPM / Node.js
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📂 ساختار پروژه
+## 🛠️ نصب و اجرا
 
-## Expanding the ESLint configuration
+ابتدا پروژه را کلون کنیدسپس وارد پوشه شوید:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+cd Portfo.me-website
+
+
+پکیج‌ها را نصب کنید:
+
+npm install
+
+
+و در نهایت پروژه را اجرا کنید:
+
+npm run dev
+)
+
+📬 ارتباط با من
+
+GitHub: ali-kashef
+
+Email: your-email@example.com
+
+LinkedIn: (اختیاری)
+
+
+---
+
+می‌خوای من همینو آماده کنم تا مستقیم تو پروژه‌ت بذاری و فقط تو ترمینال دستور بذنی `git add README.md && git commit -m "add README" && git push`؟
