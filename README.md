@@ -34,11 +34,9 @@ npm run dev
 
 GitHub: ali-kashef
 
-Email: your-email@example.com
-
-LinkedIn: (اختیاری)
+Email: ali.kashef953@gmail.com
 
 
 ---
 
-می‌خوای من همینو آماده کنم تا مستقیم تو پروژه‌ت بذاری و فقط تو ترمینال دستور بذنی `git add README.md && git commit -m "add README" && git push`؟
+
